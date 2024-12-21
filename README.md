@@ -29,7 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-
+```
 PAGE1
 <div class="android-medium-1">
   <div class="frame-1"></div>
@@ -132,6 +132,7 @@ css
 }
 
 PAGE2
+
 <div class="android-medium-1">
   <img class="sports-2-1" src="sports-2-10.png" />
   <div class="sports-day-event">SPORTS DAY EVENT</div>
@@ -296,6 +297,7 @@ android-medium-1,
   width: 319px;
   height: 93px;
 }
+```
 
 # OUTPUT:
 ![9th experiment](https://github.com/user-attachments/assets/53757a17-41da-4dc0-80e1-426e55ec568c)
